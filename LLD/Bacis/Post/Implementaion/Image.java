@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import LLD.Bacis.Post.Interface.MediaPost;
-import LLD.Bacis.Post.Interface.Post;
 
 public class Image implements MediaPost {
     final String message;
